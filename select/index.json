@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ＮＩＰＰＯＮ",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T13:50:04.027786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nippon",
+      "artist": "Laibach",
+      "has_synced": false,
+      "path": "select/01_Nippon_Laibach.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nippon",
+      "artist": "Lamb of God",
+      "has_synced": false,
+      "path": "select/02_Nippon_Lamb_of_God.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Want You to Want Me (Live at Nippon Budokan, Tokyo, JPN - April 1978)",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/03_I_Want_You_to_Want_Me_(Live_at_Nippon_Budokan,_Tokyo,_JPN_-_April_1978)_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock And Roll Music - Anthology 2 Version / Live From Nippon Budokan Hall, Tokyo, Japan/1966",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/04_Rock_And_Roll_Music_-_Anthology_2_Version___Live_From_Nippon_Budokan_Hall,_Tokyo_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She's A Woman - Anthology 2 Version / Live From Nippon Budokan Hall, Tokyo, Japan/1966",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_She's_A_Woman_-_Anthology_2_Version___Live_From_Nippon_Budokan_Hall,_Tokyo,_Japa_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nippon (Japanese Release Track)",
+      "artist": "Lamb Of God",
+      "has_synced": false,
+      "path": "select/06_Nippon_(Japanese_Release_Track)_Lamb_Of_God.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock And Roll Music (Live From Nippon Budokan Hall, Tokyo, Japan/1966 / Anthology 2 Version)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/07_Rock_And_Roll_Music_(Live_From_Nippon_Budokan_Hall,_Tokyo,_Japan_1966___Antholog_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "She's A Woman (Live From Nippon Budokan Hall, Tokyo, Japan/1966 / Anthology 2 Version)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_She's_A_Woman_(Live_From_Nippon_Budokan_Hall,_Tokyo,_Japan_1966___Anthology_2_Ve_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NIPPON",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/09_NIPPON_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "NIPPON",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/10_NIPPON_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hikari No Rock (Live at Nippon Budokan, 2017.12.3)",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/11_Hikari_No_Rock_(Live_at_Nippon_Budokan,_2017.12.3)_Sambomaster.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rock and Roll Music (Live at Nippon Budokan Hall, Tokyo)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/12_Rock_and_Roll_Music_(Live_at_Nippon_Budokan_Hall,_Tokyo)_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She's a Woman (Live at Nippon Budokan Hall, Tokyo)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/13_She's_a_Woman_(Live_at_Nippon_Budokan_Hall,_Tokyo)_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nippon Egao Hyakkei",
+      "artist": "Momoiro Clover Tei Ichimon",
+      "has_synced": true,
+      "path": "select/14_Nippon_Egao_Hyakkei_Momoiro_Clover_Tei_Ichimon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Instant Radio (2011.11.22 At Nippon Budoukan)",
+      "artist": "Sekai No Owari",
+      "has_synced": true,
+      "path": "select/15_Instant_Radio_(2011.11.22_At_Nippon_Budoukan)_Sekai_No_Owari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nippon Try Again!",
+      "artist": "新選組リアン",
+      "has_synced": false,
+      "path": "select/pl_01_Nippon_Try_Again!_新選組リアン.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "NIPPON",
+      "artist": "新選組リアン",
+      "has_synced": false,
+      "path": "select/pl_02_NIPPON_新選組リアン.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "NIPPON",
+      "artist": "新選組リアン",
+      "has_synced": false,
+      "path": "select/pl_03_NIPPON_新選組リアン.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "NIPPON",
+      "artist": "新選組リアン",
+      "has_synced": false,
+      "path": "select/pl_04_NIPPON_新選組リアン.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "NIPPON",
+      "artist": "新選組リアン",
+      "has_synced": false,
+      "path": "select/pl_05_NIPPON_新選組リアン.txt"
+    }
+  ]
+}
